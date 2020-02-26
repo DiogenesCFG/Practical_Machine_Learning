@@ -1,0 +1,14 @@
+base
+knitr
+lattice
+ggplot2
+caret
+dplyr
+kableExtra
+randomForest
+rpart
+rpart.plot
+rattle
+corrplot
+nlme
+mgcv
