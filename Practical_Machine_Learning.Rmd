@@ -2,10 +2,8 @@
 title: "Practical Machine Learning Course Project"
 author: "Diogenes Cruz Figueroa García"
 date: "26/02/2020"
-output:
-  html_document:
-    df_print: paged
-subtitle: Personal activity data
+output: html_document
+subtitle: "Personal activity data"
 ---
 
 ```{r global_options, include=FALSE}
